@@ -1,42 +1,42 @@
 [
     {
         "id": "1",
-        "cover-img": "https://i.ibb.co/FbrG6kr/5093112.jpg",
+        "cover": "https://i.ibb.co/FbrG6kr/5093112.jpg",
         "title": "The Journey Begins",
         "author": "John Doe",
-        "author-img": "https://i.ibb.co/VvLNdLL/boy1.png",
-        "posted-date": "2024-01-01",
-        "reading-time": "5 min",
+        "authori": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2024-01-01",
+        "reading_time": "5 min",
         "hashtags": ["#adventure", "#journey", "#travel"]
     },
     {
         "id": "2",
-        "cover-img": "https://i.ibb.co/GnJdN6C/7869670.jpg",
+        "cover": "https://i.ibb.co/GnJdN6C/7869670.jpg",
         "title": "Tech Innovations",
         "author": "Jane Smith",
-        "author-img": "https://i.ibb.co/VvLNdLL/boy1.png",
-        "posted-date": "2024-02-15",
-        "reading-time": "8 min",
+        "authori": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2024-02-15",
+        "reading_time": "8 min",
         "hashtags": ["#technology", "#innovation", "#future"]
     },
     {
         "id": "3",
-        "cover-img": "https://i.ibb.co/b36RvfC/code-1076536-640.jpg",
+        "cover": "https://i.ibb.co/3RdyfCV/promo1.jpg",
         "title": "Healthy Living Tips",
         "author": "Alice Johnson",
-        "author-img": "https://i.ibb.co/VvLNdLL/boy1.png",
-        "posted-date": "2024-03-10",
-        "reading-time": "7 min",
+        "authori": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2024-03-10",
+        "reading_time": "7 min",
         "hashtags": ["#health", "#wellness", "#lifestyle"]
     },
     {
         "id": "4",
-        "cover-img": "https://i.ibb.co/3RdyfCV/promo1.jpg",
+        "cover": "https://i.ibb.co/FbrG6kr/5093112.jpg",
         "title": "Exploring Space",
         "author": "Robert Brown",
-        "author-img": "https://i.ibb.co/VvLNdLL/boy1.png",
-        "posted-date": "2024-04-22",
-        "reading-time": "6 min",
+        "authori": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2024-04-22",
+        "reading_time": "6 min",
         "hashtags": ["#space", "#astronomy", "#exploration"]
     }
 ]
